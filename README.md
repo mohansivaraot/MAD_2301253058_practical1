@@ -58,7 +58,7 @@ Concepts Covered: Collections, Iteration, Conditional Logic.
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
 
 1.11 Operator Overloading & Matrix Operations Implements a Matrix class. Defines operator functions for: Addition (+) Subtraction (-) Multiplication (*) Overloads toString() for custom display of matrix contents.
-![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/0ceaf40a595d50e7b227e13ef9ae624b7dec2b19/Screenshot%202025-11-27%20092910.png)
+![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/0489b63afe8a9e3b4ef6648d578043adff55f4ea/Screenshot%202025-11-27%20222937.png)
 
 Concepts Covered: Operator Overloading, Class Design, Object-Oriented Programming.
 
