@@ -33,7 +33,7 @@ Concepts Covered: Conditional Expressions, Inline Checks.
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results
-![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/94dcc6cc28586749f828ef0ff00278465255c3eb/Screenshot%202025-11-26%20205115.png)
+![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/362715ce7f18715892dc33b6c81c65a402c16428/Screenshot%202025-11-27%20091513.png)
 
 Concepts Covered: Functions, Parameters, Return Values.
 
