@@ -53,7 +53,7 @@ Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 Concepts Covered: Collections, Iteration, Conditional Logic.
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
-![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/4667a4dfc482137a37d229434cb4f069751021b0/Screenshot%202025-11-27%20092343.png)
+![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/63bf61ac5676ad0b196f1ef96ad3a39704688c91/Screenshot%202025-11-27%20222859.png)
 
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
 
