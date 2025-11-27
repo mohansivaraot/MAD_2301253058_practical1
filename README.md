@@ -43,7 +43,7 @@ Concepts Covered: Functions, Parameters, Return Values.
 Concepts Covered: Recursion, Function Calls.
 
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
-![image_alt]()
+![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/45343279924b6c02157dda9ee4d5e4462c6fe073/Screenshot%202025-11-27%20092039.png)
 
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
