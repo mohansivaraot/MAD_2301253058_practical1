@@ -33,12 +33,12 @@ Concepts Covered: Conditional Expressions, Inline Checks.
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results
-![image_alt]()
+![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/9f4bcf7e66f457dc039e4ba01e8ddcbd10ec493d/Screenshot%202025-11-27%20221744.png)
 
 Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
-![image_alt](https://github.com/mohansivaraot/MAD_2301253058_practical1/blob/2f8fcb5cd6cd095c6260c38a0caeee55511a8b05/Screenshot%202025-11-27%20091718.png)
+![image_alt]()
 
 Concepts Covered: Recursion, Function Calls.
 
